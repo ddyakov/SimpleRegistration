@@ -2,13 +2,12 @@
 
   <PropertyGroup>
     <PackageId>SimpleRegistration.Extensions</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Dimitar Dyakov</Authors>
     <Title>SimpleRegistration.Extensions</Title>
-    <Description>SimpleRegistration.Extensions for adding decorated with SimpleRegistration.Attributes services.</Description>
-    <Summary>SimpleRegistration.Extensions for adding decorated with SimpleRegistration.Attributes services.</Summary>
+    <Description>SimpleRegistration extensions for adding decorated with SimpleRegistration.Attributes services.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageTags>.NET Core, Dependency Injection, Attributes</PackageTags>
+    <PackageTags>net core dependencyinjection attributes</PackageTags>
     <Copyright>Copyright (c) 2020 Dimitar Dyakov</Copyright>
     <RepositoryUrl>https://github.com/ddyakov/SimpleRegistration</RepositoryUrl>
     <TargetFramework>netcoreapp3.1</TargetFramework>
