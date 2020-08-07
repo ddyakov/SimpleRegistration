@@ -4,11 +4,13 @@
     <PackageId>SimpleRegistration.Attributes</PackageId>
     <Version>1.0.0</Version>
     <Authors>Dimitar Dyakov</Authors>
+    <Title>SimpleRegistration.Attributes</Title>
     <Description>SimpleRegistration.Attributes for adding scoped, transient and singleton services.</Description>
     <Summary>SimpleRegistration.Attributes for adding scoped, transient and singleton services.</Summary>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>.NET Core, Dependency Injection, Attributes</PackageTags>
     <Copyright>Copyright (c) 2020 Dimitar Dyakov</Copyright>
+    <RepositoryUrl>https://github.com/ddyakov/SimpleRegistration</RepositoryUrl>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>

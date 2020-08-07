@@ -12,10 +12,7 @@
 		/// Initializes a new instance of the SimpleRegistration.Attributes.BaseAttribute class.
 		/// </summary>
 		/// <param name="serviceType"></param>
-		public BaseAttribute(Type serviceType)
-		{
-			ServiceType = serviceType ?? throw new ArgumentNullException(nameof(serviceType));
-		}
+		public BaseAttribute(Type serviceType) => ServiceType = serviceType ?? throw new ArgumentNullException(nameof(serviceType));
 
 		/// <summary>
 		/// The type of the service to register.
